@@ -24,15 +24,6 @@ This lab is designed to enhance our understanding and practical skills in creati
 2. Analyze the performance of both the Generator and Discriminator.
 3. Generate new data and assess its quality compared to original data.
 
-## Evaluation
-At the end of the lab, we are expected to:
-- Provide a synthesis of our learning outcomes.
-- Push our work to a GitHub repository and draft a detailed README to summarize the lab's insights.
-
-## Tools and Environment
-- Google Colab or Kaggle for implementing and running the models.
-- GitHub or GitLab for version control and submission.
-
 ## Conclusion
 This lab is aimed at providing hands-on experience with advanced deep learning models, empowering us with the skills needed to design, implement, and evaluate generative models in PyTorch.
 
