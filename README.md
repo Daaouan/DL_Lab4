@@ -1,7 +1,7 @@
 # Lab 4: Deep Learning Architectures
 
 ## Introduction
-This lab is part of the Master MBD program at Université Abdelmalek Essaadi, facilitated by Professor Lotfi Elaachak. The lab is designed to enhance our understanding and practical skills in creating and training deep neural networks using PyTorch, focusing on Auto-encoders (AE), Variational Auto-encoders (VAE), and Generative Adversarial Networks (GANs).
+This lab is designed to enhance our understanding and practical skills in creating and training deep neural networks using PyTorch, focusing on Auto-encoders (AE), Variational Auto-encoders (VAE), and Generative Adversarial Networks (GANs).
 
 ## Objectives
 - Familiarize ourselves with the PyTorch library.
