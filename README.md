@@ -1,10 +1,10 @@
 # Lab 4: Deep Learning Architectures
 
 ## Introduction
-This lab is part of the Master MBD program at Université Abdelmalek Essaadi, facilitated by Professor Lotfi Elaachak. The lab is designed to enhance understanding and practical skills in creating and training deep neural networks using PyTorch, focusing on Auto-encoders (AE), Variational Auto-encoders (VAE), and Generative Adversarial Networks (GANs).
+This lab is part of the Master MBD program at Université Abdelmalek Essaadi, facilitated by Professor Lotfi Elaachak. The lab is designed to enhance our understanding and practical skills in creating and training deep neural networks using PyTorch, focusing on Auto-encoders (AE), Variational Auto-encoders (VAE), and Generative Adversarial Networks (GANs).
 
 ## Objectives
-- Familiarize with the PyTorch library.
+- Familiarize ourselves with the PyTorch library.
 - Build and train deep neural network architectures for AE, VAE, and GANs.
 - Understand the underlying mechanics and applications of generative AI technologies.
 
@@ -25,14 +25,14 @@ This lab is part of the Master MBD program at Université Abdelmalek Essaadi, fa
 3. Generate new data and assess its quality compared to original data.
 
 ## Evaluation
-At the end of the lab, students are expected to:
-- Provide a synthesis of their learning outcomes.
-- Push their work to a GitHub repository and draft a detailed README to summarize the lab's insights.
+At the end of the lab, we are expected to:
+- Provide a synthesis of our learning outcomes.
+- Push our work to a GitHub repository and draft a detailed README to summarize the lab's insights.
 
 ## Tools and Environment
 - Google Colab or Kaggle for implementing and running the models.
 - GitHub or GitLab for version control and submission.
 
 ## Conclusion
-This lab is aimed at providing hands-on experience with advanced deep learning models, empowering students with the skills needed to design, implement, and evaluate generative models in PyTorch.
+This lab is aimed at providing hands-on experience with advanced deep learning models, empowering us with the skills needed to design, implement, and evaluate generative models in PyTorch.
 
